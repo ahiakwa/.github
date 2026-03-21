@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-![](https://joyenergy.github.io/img/sankofa.png)
-![](https://joyenergy.github.io/img/GNPC.png)
-
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame.jpg)
 
-
+![](https://joyenergy.github.io/img/sankofa.png)
+![](https://joyenergy.github.io/img/GNPC.png)
 
 <!--
 
