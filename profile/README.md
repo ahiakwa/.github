@@ -2,7 +2,7 @@
 
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame.jpg)
-![](https://qfoldit.github.io/img/adinkra/qFlodIT_Sankofa_1.jpg)
+![](https://qfoldit.github.io/img/adinkra/qFoldIT_Sankofa_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFoldIT_Sankofa.jpg)
 
 ![](https://joyenergy.github.io/img/sankofa.png)
