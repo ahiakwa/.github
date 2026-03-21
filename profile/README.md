@@ -13,10 +13,15 @@
 ![](https://joyenergy.github.io/img/GNPC.png)
 ![](https://qfoldit.github.io/img/adinkra/Joy_Energy_Logo.png)
 
+### Game Dev
 <a href="https://youtu.be/p8yt_7he3mU">
 <img src="https://koronaebola.github.io/tVrs.jpg" />
 <img src="https://koronaebola.github.io/4.png" />
 </a>
+![](https://qfoldit.github.io/img/posters/genpas.png)
+![](https://refoldit.github.io/img/info/qFoldIT_4.0.png)
+![](https://qfoldit.github.io/img/posters/atomvk.jpg)
+![](https://refoldit.github.io/img/snowflake/render/medical-genomics-vr-science.png)
 
 <!--
 
