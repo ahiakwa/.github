@@ -7,6 +7,7 @@
 ![](https://qfoldit.github.io/img/adinkra/qFoldIT_Sankofa_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFoldIT_Sankofa.jpg)
 
+### My work, work of my family
 ![](https://qfoldit.github.io/img/adinkra/gnpc_gosco.jpg)
 ![](https://joyenergy.github.io/img/sankofa.png)
 ![](https://joyenergy.github.io/img/GNPC.png)
