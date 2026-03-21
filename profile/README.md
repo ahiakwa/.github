@@ -1,5 +1,8 @@
 ## Hi there 👋 This is my story
 
+### I Am George Tette Ahiakwa
+
+![](https://qfoldit.github.io/img/qFoldIT_George_Kwa.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFoldIT_Sankofa_1.jpg)
