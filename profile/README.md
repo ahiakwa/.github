@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
