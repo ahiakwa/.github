@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 👋 This is my story
 
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame.jpg)
+![](https://qfoldit.github.io/img/adinkra/qFlodIT_Sankofa_1.jpg)
+![](https://qfoldit.github.io/img/adinkra/qFlodIT_Sankofa.jpg)
 
 ![](https://joyenergy.github.io/img/sankofa.png)
 ![](https://joyenergy.github.io/img/GNPC.png)
