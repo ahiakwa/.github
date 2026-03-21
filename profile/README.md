@@ -9,6 +9,8 @@
 ![](https://joyenergy.github.io/img/GNPC.png)
 ![](https://qfoldit.github.io/img/adinkra/Joy_Energy_Logo.png)
 
+![](https://koronaebola.github.io/tVrs.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
