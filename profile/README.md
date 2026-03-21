@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-
+![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame_1.jpg)
 ![](https://qfoldit.github.io/img/adinkra/qFlodIT_Gye_Nyame.jpg)
+
+
 
 <!--
 
