@@ -1,6 +1,7 @@
 ### Hi there 👋 I Am George Tette Ahiakwa
 
 ![](https://qfoldit.github.io/img/qFoldIT_George_Kwa.jpg)
+![](https://joyenergy.github.io/img/GH.png)
 ![](https://joyenergy.github.io/img/Kelly_Chibale.png)
 ![](https://joyenergy.github.io/img/Dziwornu.png)
 ![](https://joyenergy.github.io/img/Joy_Energy.png)
