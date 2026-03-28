@@ -1,4 +1,5 @@
-### Hi there 👋 I Am George Tette Ahiakwa
+### Hi there 👋 I Am George Tette Ahiakwa 
+> Founder, qFoldIT
 
 ![](https://qfoldit.github.io/img/qFoldIT_George_Kwa.jpg)
 ![](https://joyenergy.github.io/img/GH.png)
