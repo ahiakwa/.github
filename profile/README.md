@@ -33,6 +33,9 @@
 <img src="https://koronaebola.github.io/4.png" />
 </a>
 
+### Liaison Officer
+![](https://joyenergy.github.io/img/gh-ru.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
