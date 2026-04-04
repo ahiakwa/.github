@@ -21,7 +21,7 @@
 ![](https://joyenergy.github.io/img/GNPC.png)
 ![](https://qfoldit.github.io/img/adinkra/Joy_Energy_Logo.png)
 
-### Game Dev [qFoldIT](https://qfoldit.github.io/)
+### Game Dev q[FoldIT](https://qfoldit.github.io/)
 <a href="https://atomicheart.mundfish.com/en.html">
 <img src="https://qfoldit.github.io/img/posters/atomvk.jpg" />
 </a>
