@@ -2,7 +2,7 @@
 
 > Founder of qFoldIT
 
-> Liaison officer of Ghanian Energy and Raw Materials Ghanian Companies
+> Liaison officer of Ghanian Energy and Raw Materials Companies
 
 #### Son of Dr. Ahiakwa Tette (Prestea Goldfields), I am the CIS liaison officer ensuring the efficiency of our family's energy and raw materials assets.
 
