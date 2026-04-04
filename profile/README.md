@@ -1,7 +1,8 @@
 ### Hi there 👋 I Am George Tette Ahiakwa 
-> I am : Founder, qFoldIT
 
-> Liaison officer of Ghanian Energy Companies
+> Founder of qFoldIT
+
+> Liaison officer of Ghanian Energy and Raw Materials Companies
  
 ![](https://qfoldit.github.io/img/qFoldIT_George_Kwa.jpg)
 ![](https://joyenergy.github.io/img/GH.png)
