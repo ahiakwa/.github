@@ -3,8 +3,8 @@
 > Founder of qFoldIT
 
 > Liaison officer of Ghanian Energy and Raw Materials Companies
- 
-> Like the other men in my family, I work on improving Energy & Raw Materials efficiency.
+
+#### Like the other men in my family, I work on improving Energy & Raw Materials efficiency.
 
 ![](https://qfoldit.github.io/img/qFoldIT_George_Kwa.jpg)
 ![](https://joyenergy.github.io/img/GH.png)
