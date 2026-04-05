@@ -1,10 +1,18 @@
-### Hi there 👋 I Am George Tette Ahiakwa 
+# 👋 Hi there, I am George Tette Ahiakwa
 
-> Founder of qFoldIT
+> Founder of **qFoldIT**  
+> Liaison officer of Ghanaian Energy and Raw Materials Companies
 
-> Liaison officer of Ghanian Energy and Raw Materials Companies
+---
 
-#### Son of Dr. Ahiakwa Tette (Prestea Goldfields), I am the CIS liaison officer ensuring the efficiency of our family's energy and raw materials assets.
+## About my family
+
+I am the **son of Dr. Ahiakwa Tette** (Prestea Goldfields, Ghana).  
+My father’s 1988 PhD at the Moscow Mining Institute focused on stabilising gold ore quality – a principle that later inspired qFoldIT at the molecular level.
+
+Today, I serve as the **CIS liaison officer** for Ghanaian energy and raw‑material companies. My role is to ensure the efficiency of our family’s energy and raw materials assets, acting as a live bridge between Ghanaian organisations and partners in Russia & the former Soviet Union.
+
+---
 
 ![](https://qfoldit.github.io/img/qFoldIT_George_Kwa.jpg)
 ![](https://joyenergy.github.io/img/GH.png)
