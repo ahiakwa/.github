@@ -35,7 +35,6 @@ Today, I serve as the **CIS liaison officer** for **Ghanaian energy and raw‑ma
 <a href="https://atomicheart.mundfish.com/en.html">
 <img src="https://qfoldit.github.io/img/posters/atomvk.jpg" />
 </a>
-
 ![](https://qfoldit.github.io/img/posters/vkPlay_card.png)
 ![](https://refoldit.github.io/img/info/qFoldIT_4.0.png)
 ![](https://refoldit.github.io/img/snowflake/render/medical-genomics-vr-science.png)
