@@ -33,6 +33,7 @@ Today, I serve as the **CIS liaison officer** for **Ghanaian energy and raw‑ma
 
 ### Game Dev [qFoldIT](https://qfoldit.github.io/)
 <a href="https://atomicheart.mundfish.com/en.html"><img src="https://qfoldit.github.io/img/posters/atomvk.jpg" /></a>
+### The total game testing cycle was ~6 years (2019 - 2025).
 ![](https://qfoldit.github.io/img/posters/vkPlay_card.png)
 ![](https://refoldit.github.io/img/info/qFoldIT_4.0.png)
 ![](https://refoldit.github.io/img/snowflake/render/medical-genomics-vr-science.png)
