@@ -44,7 +44,7 @@ Today, I serve as the **CIS liaison officer** for **Ghanaian energy and raw‑ma
 <img src="https://koronaebola.github.io/4.png" />
 </a>
 
-### I am an Liaison Officer
+### I am an Liaison Officer of Ghanaian Energy and Raw Materials Companies
 ![](https://joyenergy.github.io/img/gh-ru.jpg)
 
 <!--
